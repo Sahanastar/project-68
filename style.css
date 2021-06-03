@@ -1,0 +1,13 @@
+body{
+	background-color: aqua;
+	text-align: center;
+}
+
+ul{
+	float: left;
+	position:sticky;
+	top:0;
+	z-index:99999;
+	text-align: end;
+}
+li
